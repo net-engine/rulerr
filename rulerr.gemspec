@@ -6,8 +6,8 @@ require 'rulerr/version'
 Gem::Specification.new do |spec|
   spec.name          = "rulerr"
   spec.version       = Rulerr::VERSION
-  spec.authors       = ["Ricardo Bernardeli"]
-  spec.email         = ["ricardobcs@gmail.com"]
+  spec.authors       = ["Erik Trapin"]
+  spec.email         = ["erikecoologic@gmail.com"]
 
   spec.summary       = "Convert units"
   spec.homepage      = "https://github.com/net-engine/rulerr"
